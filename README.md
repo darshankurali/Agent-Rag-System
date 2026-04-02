@@ -124,6 +124,4 @@ UI            : Streamlit
 Language      : Python 3.10+
 ```
 
----
 
-*Built as a portfolio project to demonstrate LLM + RAG + Agentic AI engineering skills*
